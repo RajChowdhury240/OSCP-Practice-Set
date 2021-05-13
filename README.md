@@ -1,4 +1,4 @@
-# Practice solving different OSCP-like machines from HackTheBox and TryHackMe
+# 5 Set of OSCP-like machines from HackTheBox and TryHackMe
 
 ## 1st Set
 | Machine | OS | Point | Link |
